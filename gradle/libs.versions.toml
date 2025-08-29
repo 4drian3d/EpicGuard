@@ -27,7 +27,7 @@ adventure-api = "4.24.0"
 annotations = "26.0.1"
 
 sqlite = "3.50.3.0"
-hikaricp = "5.1.0"
+hikaricp = "7.0.2"
 guava = "33.3.1-jre"
 
 commons-compress = "1.27.1"
