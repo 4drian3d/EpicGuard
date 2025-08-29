@@ -70,7 +70,7 @@ slf4j = { module = "org.slf4j:slf4j-api", version.ref = "slf4j" }
 log4j2 = { group = "org.apache.logging.log4j", name = "log4j-core", version.ref = "log4j2" }
 
 sqlite = { module = "org.xerial:sqlite-jdbc", version.ref = "sqlite" }
-mysql = { group = "com.mysql", name = "mysql-connector-j", version = "8.4.0"  }
+mysql = { group = "com.mysql", name = "mysql-connector-j", version = "9.4.0"  }
 hikaricp = { module = "com.zaxxer:HikariCP", version.ref = "hikaricp" }
 guava = { module = "com.google.guava:guava", version.ref = "guava" }
 
